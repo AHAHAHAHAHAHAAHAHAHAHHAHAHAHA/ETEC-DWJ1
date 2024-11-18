@@ -32,7 +32,7 @@
         }
         img:hover{
             cursor: :pointer;
-            width: 120%;
+            width: 110%;
             position:
         }
     </style>
